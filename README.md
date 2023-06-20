@@ -27,10 +27,15 @@ To run the code locally, you need to have the following dependencies installed:
 You can install the required packages by running the following command:
 
   ```shell
-  pip install -r requirements.txt
+  pip install tensorflow numpy pillow scikit-learn
   ```
 
-## Usage
+
+## Dataset 
+
+You can access and download the dataset in `.zip` format from __https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification__ and unzip it. 
+
+## Usage 
 
 **Prepare your dataset:**
 
