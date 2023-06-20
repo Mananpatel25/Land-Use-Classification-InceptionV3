@@ -34,6 +34,8 @@ You can install the required packages by running the following command:
 
 ## Dataset 
 
+This dataset contains satellite images of 21 classes such as buildings, baseball fields, freeways, etc. The original size of the images is 256x256 pixels. Originally there were 100 images per class. After augmenting each image 4 times the size of each class was brought up to 500 images. This allows for making a more robust model.
+
 You can access and download the dataset in `.zip` format from __https://www.kaggle.com/datasets/apollo2506/landuse-scene-classification__ and unzip it. 
 
 ## Usage 
