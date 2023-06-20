@@ -49,26 +49,14 @@ You can access and download the dataset in `.zip` format from __https://www.kagg
 
   Adjust the hyperparameters and settings in the train.py file to suit your needs.
 
-  Run the following command to start the training process:
-
-  ```shell
-  python train.py
-  ```
 
 **Evaluate the model:**
 
-  Run the evaluation script to measure the performance of the trained model:
-
-  ```shell
-  python evaluate.py
-  ```
+  Run the evaluation script to measure the performance of the trained model.
 
 **Make predictions:**
 
-  Use the trained model to predict the class of new, unseen images:
-  ```shell
-  python predict.py --image <path_to_image>
-  ```
+  Use the trained model to predict the class of new, unseen images.
 
 ## Contributing
   Contributions are welcome! If you find any issues or have suggestions for improvement, please submit a pull request or open an issue.
