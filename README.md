@@ -47,7 +47,7 @@ You can access and download the dataset in `.zip` format from __https://www.kagg
 
 **Train the model:**
 
-  Adjust the hyperparameters and settings in the train.py file to suit your needs.
+  Adjust the hyperparameters and settings in the file to suit your needs.
 
 
 **Evaluate the model:**
