@@ -6,7 +6,7 @@ This repository contains code for land use scene classification using the Incept
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Dataset](#Dataset)
+- [Dataset](#dataset)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
