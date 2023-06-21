@@ -9,7 +9,6 @@ This repository contains code for land use scene classification using the Incept
 - [Dataset](#dataset)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -60,6 +59,3 @@ You can access and download the dataset in `.zip` format from __https://www.kagg
 
 ## Contributing
   Contributions are welcome! If you find any issues or have suggestions for improvement, please submit a pull request or open an issue.
-
-## Contact
-  If you have any questions or inquiries, please feel free to contact [Shreedhar Purohit] at [shreedhar2.purohit@gmail.com].
